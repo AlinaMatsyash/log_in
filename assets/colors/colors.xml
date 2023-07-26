@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_button">#A04ACF</color>
+    <color name="hovar_button">#861BC0</color>
+    <color name="bg_card">#F0EEFF</color>
+    <color name="violet_hard">#7D6EE9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="violet_light">#AA9EFF</color>
+    <color name="text_p">#59607A</color>
+    <color name="text_light">#9BA4C1</color>
+    <color name="no">#C80005</color>
+    <color name="link">#F03D4B</color>
+    <color name="link_hover">#E40718</color>
+    <color name="text_h">#0B1023</color>
+</resources>
